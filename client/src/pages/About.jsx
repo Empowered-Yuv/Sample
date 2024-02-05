@@ -17,7 +17,7 @@ export default function About() {
         <div className="flex items-center lg:flex-1">
           <img
             className="rounded-lg h-[400px] mx-auto"
-            src="../images/r.png"
+            src="../../images/r.png"
             alt=""
           />
         </div>

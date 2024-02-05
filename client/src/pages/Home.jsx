@@ -48,9 +48,9 @@ export default function Home() {
   return (
     <div>
       {/* top */}
-      <div className="flex gap-2">
+      <div className="flex gap-2 md: flex-wrap">
         {/* top */}
-        <div className="flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto">
+        <div className="flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto ">
           <h1 className=" font-bold text-4xl lg:text-6xl text-blue-800">
             " Discover, Adapt
             <br />
@@ -62,6 +62,10 @@ export default function Home() {
             We have a wide range of properties for you to choose from.
           </div>
 
+          <div className="text-orange-700 mt-5 sm:text-4xl px-10">
+            Still Confused?
+          </div>
+
           <Link
             to={"/sign-up"}
             className="text-xs sm:text-sm text-blue-800 font-bold hover:underline px-10"
@@ -69,8 +73,8 @@ export default function Home() {
             Let's get started...
           </Link>
         </div>
-        <div className="w-1/2 flex ml-20">
-          <img src="../images/laun.png" className="h-2/3" alt="" />
+        <div className=" flex lg:  items-center justify-center">
+          <img src="../../images/laun.png" className="h-2/3" alt="" />
         </div>
       </div>
 
