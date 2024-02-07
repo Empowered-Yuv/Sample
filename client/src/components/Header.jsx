@@ -35,7 +35,7 @@ export default function Header() {
               <span className="text-green-600">Map</span>
             </h1>
             <img
-              className=" h-10 w-10 object-cover"
+              className=" h-8 w-8 object-cover"
               src="../images/Arrow.png"
               alt="profile"
             />

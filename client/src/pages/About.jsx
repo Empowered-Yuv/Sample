@@ -10,14 +10,14 @@ export default function About() {
       </div>
       <div className="head mx-auto w-full text-center">
         <h1 className="text-slate-800 text-2xl lg:text-4xl p-5 font-semibold">
-        &#x1F495;  Our Inspiration &#x1F495;
+          &#x1F495; Our Inspiration &#x1F495;
         </h1>
       </div>
       <div className="flex  items-center flex-col gap-4 lg:flex-row ">
         <div className="flex items-center lg:flex-1">
           <img
             className="rounded-lg h-[400px] mx-auto"
-            src="../../images/r.png"
+            src="../../images/h.png"
             alt=""
           />
         </div>
@@ -41,7 +41,7 @@ export default function About() {
       </div>
       <div className="head mx-auto w-full text-center">
         <h1 className="text-slate-800 text-2xl lg:text-4xl p-5 font-semibold">
-         &#129308; Our Team &#129307;
+          &#129308; Our Team &#129307;
         </h1>
       </div>
       <div className="flex  items-center flex-col gap-4  ">
