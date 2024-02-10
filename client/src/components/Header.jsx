@@ -36,7 +36,7 @@ export default function Header() {
             </h1>
             <img
               className=" h-8 w-8 object-cover"
-              src="../images/Arrow.png"
+              src="images/Arrow.png"
               alt="profile"
             />
           </div>
