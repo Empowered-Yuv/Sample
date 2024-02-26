@@ -16,7 +16,7 @@ export default function About() {
       <div className="flex  items-center flex-col gap-4 lg:flex-row ">
         <div className="flex items-center lg:flex-1">
           <img
-            className="rounded-lg h-[400px] mx-auto"
+            className="rounded-full h-[400px] mx-auto"
             src="https://i.ibb.co/ZYzxytH/incredible.jpg"
             alt=""
           />
