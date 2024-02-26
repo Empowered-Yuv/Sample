@@ -74,7 +74,7 @@ export default function Home() {
           </Link>
         </div>
         <div className=" flex lg:  items-center justify-center">
-          <img src="../../images/laun.png" className="h-2/3" alt="" />
+          <img src="https://i.ibb.co/X7Cv5PX/laun.png" className="h-2/3" alt="" />
         </div>
       </div>
 

@@ -17,7 +17,7 @@ export default function About() {
         <div className="flex items-center lg:flex-1">
           <img
             className="rounded-lg h-[400px] mx-auto"
-            src="../../images/h.png"
+            src="https://i.ibb.co/ZYzxytH/incredible.jpg"
             alt=""
           />
         </div>
@@ -48,19 +48,19 @@ export default function About() {
         <div className="flex flex-col items-center gap-2 lg:flex-row">
           <img
             className="rounded-full h-[400px] mx-auto"
-            src="../images/h.png"
+            src="https://i.ibb.co/grZC9Q4/h.png"
             alt=""
           />
 
           <img
             className="rounded-full h-[400px] mx-auto"
-            src="../images/p.jpg"
+            src="https://i.ibb.co/xfMnjF8/p.jpg"
             alt=""
           />
 
           <img
             className="rounded-full h-[400px] mx-auto"
-            src="../images/s.jpg"
+            src="https://i.ibb.co/whtXmZ3/s.jpg"
             alt=""
           />
         </div>
